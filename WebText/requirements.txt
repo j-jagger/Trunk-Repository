@@ -1,0 +1,3 @@
+quart # ASGI framework
+pillow # image editing framework
+granian # high performance rust ASGI server
