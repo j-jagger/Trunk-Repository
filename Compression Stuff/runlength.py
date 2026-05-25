@@ -11,7 +11,7 @@ except Exception as e:
     
 def RunlengthEncode(bytesin:bytes) -> bytes:
     lastbyte = None
-    current_stack = 0
+    current_stack = 0 # Like minecraft..???
     out = []
     nullchar = u"\u0000"
     
