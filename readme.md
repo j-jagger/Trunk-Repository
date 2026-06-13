@@ -5,6 +5,12 @@ This repo serves as the dumping grounds for small little projects I make, that m
 
 Everything here is written and tested for Arch Linux on x86.
 
+Languages used (So Far):
+C
+Python
+JS
+Web Stack
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j-jagger/Content-Delivery-Repository/refs/heads/main/not-by-ai/written-by/Written-By-Humans-Not-By-AI-Badge-white.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j-jagger/Content-Delivery-Repository/refs/heads/main/not-by-ai/written-by/Written-By-Humans-Not-By-AI-Badge-black.svg">
