@@ -3,7 +3,7 @@ https://wsys.day/
 
 This repo serves as the dumping grounds for small little projects I make, that might end up snowballing into their own repo if they get big enough.
 
-Everything here is written and tested for Arch Linux on x86.
+Everything here is written and tested for Arch Linux on AMD64.
 
 Languages used (So Far):
 C
